@@ -10,5 +10,5 @@ ON u.user_id = r.user_id
 JOIN SpotifyClone.songs AS s
 ON s.song_id = r.song_id
 
-group by usuario
+GROUP BY usuario
 ORDER BY usuario;
