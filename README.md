@@ -22,7 +22,7 @@ Você receberá uma tabela não normalizada, a qual deverá ser normalizada e po
 Normalize uma tabela na terceira forma normal e acesse as informações desta tabela através de `queries` utilizando `SQL`.
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-015-a-mysql-one-for-all.git`.
+  * `git clone https://github.com/GabrielModa/mysql-one-for-all.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-015-a-mysql-one-for-all`
 
